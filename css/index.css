@@ -7,7 +7,7 @@ body{
 
 @font-face {
 	font-family: Shera;
-	src: url('/font/Shera-MqWe.ttf') format('truetype');
+	src: url('../font/Shera-MqWe.ttf') format('truetype');
 }
 
 
